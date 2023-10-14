@@ -1,0 +1,6 @@
+Cat: con meo
+Click: nhan
+Dog: con cho
+Pig: con heo
+Sun: mat troi
+Table: cai ban
